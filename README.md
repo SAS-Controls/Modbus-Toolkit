@@ -225,9 +225,7 @@ We design and build custom industrial automation systems — PLC programming, HM
 
 ## License
 
-This software is proprietary and developed by Southern Automation Solutions. All rights reserved.
-
-For licensing inquiries or enterprise support, contact Contact@SASControls.com.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
