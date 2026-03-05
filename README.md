@@ -1,11 +1,5 @@
 # SAS Modbus Toolkit
 
-**Professional Modbus diagnostic and commissioning tool for industrial automation engineers.**
-
-Developed by [Southern Automation Solutions](https://SASControls.com) — Valdosta, GA.
-
----
-
 ## What Is It?
 
 The SAS Modbus Toolkit is a standalone Windows desktop application that gives you a complete Modbus diagnostic workbench in one portable `.exe`. No PLC software, no licenses, no internet connection required — just connect and work.
@@ -27,11 +21,6 @@ Built for the situations that come up daily in industrial automation: commission
 
 ---
 
-## Screenshots
-
-> *Coming soon — add screenshots to `/docs/screenshots/` and update this section.*
-
----
 
 ## Quick Start
 
@@ -238,7 +227,7 @@ We design and build custom industrial automation systems — PLC programming, HM
 
 This software is proprietary and developed by Southern Automation Solutions. All rights reserved.
 
-For licensing inquiries or enterprise support, contact Mark@SASControls.com.
+For licensing inquiries or enterprise support, contact Contact@SASControls.com.
 
 ---
 
