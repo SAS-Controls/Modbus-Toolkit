@@ -215,11 +215,7 @@ Master                                              Slave(s)
 
 We design and build custom industrial automation systems — PLC programming, HMI development, industrial networking, and R&D integration work.
 
-| | |
-|---|---|
-| **Email** | Contact@SASControls.com |
-| **Phone** | 229-563-2897 |
-| **Location** | Valdosta, GA 31601 |
+
 
 ---
 
