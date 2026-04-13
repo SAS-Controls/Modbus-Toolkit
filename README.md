@@ -4,7 +4,6 @@
 
 The SAS Modbus Toolkit is a standalone Windows desktop application that gives you a complete Modbus diagnostic workbench in one portable `.exe`. No PLC software, no licenses, no internet connection required — just connect and work.
 
-Built for the situations that come up daily in industrial automation: commissioning a new drive, chasing a communication fault, verifying register values before writing PLC code, or handing a customer a clean network health report.
 
 ---
 
